@@ -21,6 +21,16 @@ body {
         margin-right: 0%;
         left: 0px;
     }
+
+    .TitleBlock {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .TextSection {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
 }
 
 .TitleBlock {
