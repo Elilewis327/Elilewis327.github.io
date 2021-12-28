@@ -8,7 +8,8 @@ Last Updated: 12/28/2021
 
 ## Hobby's
   
-  Speaking German <br />
+  -Speaking German <br />
+  -Babying my cat <br />
   <img src="./cat.jpg" height="300" width="200"> </img>
   
 ## Where to Find Me
