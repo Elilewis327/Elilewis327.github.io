@@ -3,9 +3,14 @@ Last Updated: 12/28/2021
 
 ## About Me
 
-  Im an undergraduate computer science student at Calvin University
+  I'm an undergraduate Computer Science student at Calvin University
   Curently taking CS 214
 
+## Hobby's
+  
+  Speaking German
+  <a href="/">b</a>
+  
 ## Where to Find Me
   
   Linkdin: https://www.linkedin.com/in/elilewis327/
