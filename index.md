@@ -13,10 +13,10 @@ Last Updated: 12/28/2021
   
 ## Where to Find Me
   
-  Linkdin: https://www.linkedin.com/in/elilewis327/
-  Github: https://github.com/elilewis327/
-  This Website: https://elilewis327.com
-  Email: elilewis327@gmail.com
+  Linkdin: https://www.linkedin.com/in/elilewis327/ <br />
+  Github: https://github.com/elilewis327/ <br />
+  This Website: https://elilewis327.com <br />
+  Email: elilewis327@gmail.com <br />
   
 ## Personal Projects
 
