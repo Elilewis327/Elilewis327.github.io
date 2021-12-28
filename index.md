@@ -8,8 +8,8 @@ Last Updated: 12/28/2021
 
 ## Hobby's
   
-  Speaking German
-  <img src="./cat.jpg"> </img>
+  Speaking German <br />
+  <img src="./cat.jpg" height="300" width="200"> </img>
   
 ## Where to Find Me
   
