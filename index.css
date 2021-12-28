@@ -14,6 +14,15 @@ body {
     width: 60%; 
 }
 
+@media screen and (max-width: 30cm) {
+    .CenterColumn {
+        width: 100%; 
+        margin-left: 0%;
+        margin-right: 0%;
+        left: 0px;
+    }
+}
+
 .TitleBlock {
     width: 100%;
     margin: 4%;
