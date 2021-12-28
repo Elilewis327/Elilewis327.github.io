@@ -3,13 +3,13 @@ Last Updated: 12/28/2021
 
 ## About Me
 
-  I'm an undergraduate Computer Science student at Calvin University
-  Curently taking CS 214
+  I'm an undergraduate Computer Science student at Calvin University <br />
+  Curently taking CS 214 <br />
 
 ## Hobby's
   
   Speaking German
-  <a href="/">b</a>
+  <img src="./cat.jpg"> </img>
   
 ## Where to Find Me
   
