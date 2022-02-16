@@ -1,3 +1,10 @@
 {
-  "text": "text"
+  {
+    "title": "About Me",
+    "bodytext": "I am a current student at Calvin University studying Computer Science with a minor in German studies. I love to program and learn about the inner workings of systems, and am interested in working in information security or development when I graduate."
+  }
+  {
+    "title": "Experience",
+    "bodytext": "I currently work at Calvin's Hekman library and Calvin Information Technology. I am interested in internship oppurutunities to do with Computer Science. "
+  }
 }
