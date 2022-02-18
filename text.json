@@ -1,12 +1,59 @@
-{ 
+{
   "posts": [
-  {
-    "title": "About Me",
-    "bodytext": "I am a current student at Calvin University studying Computer Science with a minor in German studies. I love to program and learn about the inner workings of systems, and am interested in working in information security or development when I graduate."
-  },
-  {
-    "title": "Experience",
-    "bodytext": "I currently work at Calvin's Hekman library and Calvin Information Technology. I am interested in internship oppurutunities to do with Computer Science. "
-  }
+    {
+      "id": "1",
+      "title": "About Me",
+      "body": "I am a current student at Calvin University studying Computer Science with a minor in German Studies. I love to program and learn about the inner workings of systems, and am interested in working in information security or development when I graduate.",
+      "type": "text"
+    },
+    {
+      "id": "2",
+      "title": "Experience",
+      "body": "I currently work at Calvin's Hekman Library and Calvin Information Technology. I am interested in internship opportunities in the field of Computer Science. ",
+      "type": "text"
+    },
+    {
+      "id": "3",
+      "title": "Where to Find Me",
+      "body": "You can find me on:",
+      "list": [
+        { "text": "https://github.com/elilewis327", "type": "link", "id": "0" },
+        { "text": "mailto://elilewis327@gmail.com", "type": "link", "id": "1" },
+        {
+          "text": "https://www.linkedin.com/in/elilewis327/",
+          "type": "link",
+          "id": "2"
+        },
+        {
+          "text": "https://www.glassdoor.com/member/profile/index.htm",
+          "type": "link",
+          "id": "3"
+        }
+      ],
+      "type": "list"
+    },
+    {
+      "id": "4",
+      "title": "Projects",
+      "body": "This is a short list of a couple of my projects: (These and others can be found on my github)",
+      "list": [
+        {
+          "text": "This website, written in React and styled with Tailwind Css",
+          "type": "text",
+          "id": "0"
+        },
+        {
+          "text": "Dark mode everywhere, a chrome extension for making non dark mode websites darker",
+          "type": "text",
+          "id": "1"
+        },
+        {
+          "text": "ESP2866 LCD writer, a micropython firmware for a custom cicuit board I built and had printed",
+          "type": "text",
+          "id": "2"
+        }
+      ],
+      "type": "list"
+    }
   ]
 }
