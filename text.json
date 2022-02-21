@@ -54,6 +54,12 @@
         }
       ],
       "type": "list"
+    },
+    {
+     "id": "5",
+     "title": "CS Tutoring",
+     "body": "Reach out to me a elilewis327@gmail.com and I can help you with CS homework. Starting at 20$ a session.",
+     "type": "text"
     }
   ]
 }
