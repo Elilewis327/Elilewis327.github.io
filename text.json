@@ -38,11 +38,6 @@
       "body": "This is a short list of a couple of my projects: (These and others can be found on my github)",
       "list": [
         {
-          "text": "catmaker",
-          "type": "link",
-          "id": "3"
-        },
-        {
           "text": "This website, written in React and styled with Tailwind Css",
           "type": "text",
           "id": "0"
