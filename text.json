@@ -20,6 +20,12 @@
     },
     {
       "id": "4",
+      "title": "What enjoy programming in",
+      "body": "My favorite languages are Rust, JavaScript, and C. I also don't mind Perl and Python.  ",
+      "type": "text"
+    },
+    {
+      "id": "5",
       "title": "Where to Find Me",
       "body": "You can find me on:",
       "list": [
@@ -39,7 +45,7 @@
       "type": "list"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "Projects",
       "body": "This is a short list of a couple of my projects: (These and others can be found on my github)",
       "list": [
