@@ -12,8 +12,14 @@
       "body": "I currently work at Calvin's Hekman Library as a Junior Systems Admin. I have previously worked at Trailhead Networks as a Helpdesk Technician and at Calvin Information Technology as a Helpdesk Technician. I am interested in internship opportunities in the fields of Computer Science and Cyber Security. ",
       "type": "text"
     },
-    {
+     {
       "id": "3",
+      "title": "What I'm Currently Learning",
+      "body": "Im currently learning rust, WASM, and WebGL to try to simulate the conditions of hurricane sandy in 2012.",
+      "type": "text"
+    },
+    {
+      "id": "4",
       "title": "Where to Find Me",
       "body": "You can find me on:",
       "list": [
@@ -33,7 +39,7 @@
       "type": "list"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Projects",
       "body": "This is a short list of a couple of my projects: (These and others can be found on my github)",
       "list": [
