@@ -50,19 +50,24 @@
       "body": "This is a short list of a couple of my projects: (These and others can be found on my github)",
       "list": [
         {
-          "text": "This website, written in React and styled with Tailwind Css",
+          "text": "Shell program written in C",
           "type": "text",
           "id": "0"
         },
         {
-          "text": "Dark mode everywhere, a chrome extension for making non dark mode websites darker",
+          "text": "This website, written in React and styled with Tailwind Css",
           "type": "text",
           "id": "1"
         },
         {
-          "text": "ESP2866 LCD writer, a micropython firmware for a custom circuit board I built and had printed",
+          "text": "Dark mode everywhere, a chrome extension for making non dark mode websites darker",
           "type": "text",
           "id": "2"
+        },
+        {
+          "text": "ESP2866 LCD writer, a micropython firmware for a custom circuit board I built and had printed",
+          "type": "text",
+          "id": "3"
         }
       ],
       "type": "list"
