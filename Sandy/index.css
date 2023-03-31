@@ -28,7 +28,7 @@ body {
 .nav_bar {
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 100%;
     justify-content: space-evenly;
     display: flex;
     background-color: #1b1b1b;
