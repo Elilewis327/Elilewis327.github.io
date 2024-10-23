@@ -10,7 +10,12 @@ const config: Config = {
     './src/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        'collapse' : '915px',
+        'max' : '2200px',
+      }
+    },
   },
   plugins: [],
 }

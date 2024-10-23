@@ -6,7 +6,7 @@
 
 ## Features & Scope:
 ### The website will:
-1. Be created using Next.js, React, Tailwind CSS, webpack, mongoDB, and be hosted on Github pages
+1. Be created using Next.js, React, Tailwind CSS, firestore, and be hosted on Github pages
 2. Have a cool animated background
 3. Be pretty
 4. Be performant and usable on various device types (mobile, desktop)
