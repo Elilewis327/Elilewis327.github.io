@@ -19,3 +19,5 @@
 [Repo](https://github.com/Elilewis327/elilewis327.github.io/tree/2024-Update)
 
 [Website](https://elilewis327.com)
+
+[Inspriation](https://webofdevs.com)

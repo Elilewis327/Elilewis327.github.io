@@ -5,7 +5,7 @@ import NavbarElement from "/src/app/Navbar/NavbarElement.tsx";
 
 const FullSizeNav = () => {
   return (
-    <div className="inline-flex w-screen sticky border-b-2 border-black pb-6">
+    <div className="inline-flex bg-inherit w-screen sticky border-b-2 border-black pb-6 collapse:hidden dark:border-slate-400">
       <NavbarElement
         styles="font-bold text-4xl ml-4 mt-4"
         link="/"

@@ -1,13 +1,14 @@
 "use client";
 
 //@ts-ignore
-import NavbarElement from "/src/app/Navbar/NavbarElement.tsx";
+import NavbarElement from "/src/app/Navbar/NavbarElement.tsx"; //@ts-ignore
 
 const FullSizeNav = () => {
+
   return (
-    <div className="inline-flex w-screen sticky border-b-2 border-black pb-6 mb-4">
+    <div className="collapse:inline-flex w-screen sticky top-0 border-b-2 border-black pb-4 mb-4 hidden bg-inherit">
       <NavbarElement
-        styles="font-bold text-4xl"
+        styles="font-bold text-3xl"
         link="/"
         text="Eli Lewis"
       ></NavbarElement>
@@ -23,15 +24,13 @@ const FullSizeNav = () => {
         text="Interests"
       ></NavbarElement>
       <NavbarElement
-        styles="text-xl mr-12"
+        styles="text-xl mr-6"
         link="https://github.com/Elilewis327"
         text="Github"
       ></NavbarElement>
       <div
-        className="flex align-end items-end ml-auto mt-12 mr-12 hover:cursor-pointer"
-        onClick={() => {
-          console.log("dark mode!");
-        }}
+        className="flex align-end items-end ml-auto mt-6 mr-6 hover:cursor-pointer"
+        onClick={ () => document.documentElement.classList.toggle('dark')}
       >
         <svg className="size-10" stroke="currentColor" fill="currentColor"
           strokeWidth="0" viewBox="0 0 24 24" height="24" width="24"
