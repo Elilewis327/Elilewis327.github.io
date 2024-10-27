@@ -18,19 +18,16 @@ const Home = () => {
     db.query("posts").then(() => {
 
       setPosts(db.data.map((post: any) =>
-        <Post title={post.title} key={post.id} id={post.id} content={post.content} />))
+        <Post title={post.title} key={post.id} id={post.tag} content={post.content} />))
 
       setReady(true);
     });
   }
 
-
-
   if (!ready) return <div className="pl-12" > Loading... </div>;
   else {
     return (
     <Container>
-      {posts}
       {posts}
     </Container>
     )

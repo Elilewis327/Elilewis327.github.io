@@ -9,18 +9,22 @@ const FullSizeNav = () => {
     <div className="collapse:inline-flex w-screen sticky top-0 border-b-2 border-black pb-4 mb-4 hidden bg-inherit">
       <NavbarElement
         styles="font-bold text-3xl"
-        link="/"
+        link="/#Home"
         text="Eli Lewis"
       ></NavbarElement>
       <NavbarElement
         styles="text-xl"
-        link="/Projects"
-        text="Projects"
+        link="/#About"
+        text="About"
       ></NavbarElement>
-      <NavbarElement styles="text-xl" link="/Blog" text="Blog"></NavbarElement>
       <NavbarElement
         styles="text-xl"
-        link="/Interests"
+        link="/#Projects"
+        text="Projects"
+      ></NavbarElement>
+      <NavbarElement
+        styles="text-xl"
+        link="/#Interests"
         text="Interests"
       ></NavbarElement>
       <NavbarElement

@@ -39,8 +39,10 @@ class FStoreHelper {
         this.data.push(doc.data());
       });
 
+      this.data.sort( (a,b) => a.id - b.id);
+
     } catch {
-      Error("ahh");
+      Error("Error getting data from firestore db");
     }
   }
 }

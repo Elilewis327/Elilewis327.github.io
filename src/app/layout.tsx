@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="">
-      <body className='min-h-screen flex flex-col bg-gray-light text-black'>
+      <body className='min-h-screen flex flex-col bg-[#eeeeee] text-black'>
         <FullSizeNav />
         <MiniNav />
         <main className="flex grow">
